@@ -20,6 +20,8 @@ Fiz toda a instalação e funcionamento no docker ubuntu
 ### [Referências]
 Ajudaram muito:
 
-> [Playlist de configuração de uma URA](https://www.youtube.com/playlist?list=PL33DD308C6752F519) <br>
-> [Configuração básica do Asterisk](https://docs.asterisk.org/Getting-Started/Hello-World/#make-the-call)<br>
+> [Playlist de configuração de uma URA](https://www.youtube.com/playlist?list=PL33DD308C6752F519)
+
+> [Configuração básica do Asterisk](https://docs.asterisk.org/Getting-Started/Hello-World/#make-the-call)
+
 > [Instalar o pacote de sons em português IMPORTANTE!!!](https://www.asterisksounds.org/pt-br/instalar)
